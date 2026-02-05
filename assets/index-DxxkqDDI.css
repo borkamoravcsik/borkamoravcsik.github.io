@@ -14,6 +14,13 @@
   font-style: normal;
 }
 
+h1, h2 {
+    font-family: 'MyFontMonoRegular';
+}
+
+p {
+    font-family: 'MyFontBook';
+}
 /*! tailwindcss v4.1.12 | MIT License | https://tailwindcss.com */
 @layer properties {
     @supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))) {
