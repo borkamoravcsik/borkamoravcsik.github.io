@@ -15,11 +15,11 @@
 }
 
 h1, h2 {
-    font-family: 'MyFontBook';
+    font-family: 'MyFontMonoRegular';
 }
 
 p {
-    font-family: 'MyFontMonoRegular';
+    font-family: 'MyFontBook';
 }
 /*! tailwindcss v4.1.12 | MIT License | https://tailwindcss.com */
 @layer properties {
