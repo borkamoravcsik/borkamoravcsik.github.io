@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "MyFontBook";
+  src: url("/HALFourGroteskUnlicensed-Book.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MyFontMonoRegular";
+  src: url("/HALTimezoneUnlicensed-MonoRegular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2 {
+    /*font-family: 'MyFontMonoRegular';*/
+}
+
+p {
+    /*font-family: 'MyFontBook';*/
+}
