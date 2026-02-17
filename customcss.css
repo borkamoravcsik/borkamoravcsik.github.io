@@ -18,3 +18,8 @@ h1, h2 {
 p {
     /*font-family: 'MyFontBook';*/
 }
+
+.photo-credits span {
+    font-family: 'Work Sans';
+    font-size: 12px;
+}
