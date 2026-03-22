@@ -11500,7 +11500,7 @@ function eh() {
                 className: "flex items-center",
                 children: l.jsx("p", {
                   className:
-                    "text-[13px] md:text-[24px] lg:text-[28px] leading-[1.6] font-['Crimson_Pro'] text-gray-600",
+                    "text-[13px] md:text-[24px] lg:text-[28px] leading-[1.6] font-['MyFontRegular'] text-gray-600 MyFontRegular",
                   children:
                     "Asking curious questions on the intersection of technology and design as a design researcher and maker, for more productive systems. Asking these questions and reflecting on them through the art of participatory tools and methods.",
                 }),

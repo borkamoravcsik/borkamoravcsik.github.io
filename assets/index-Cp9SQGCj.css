@@ -13,7 +13,7 @@
   font-style: normal;
 }
 
-.type-text {
+.type-text, .MyFontRegular {
   font-family: MyFontRegular, serif !important;
 }
 h1, .type-heading, .type-title {
