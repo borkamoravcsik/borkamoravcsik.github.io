@@ -12,3 +12,10 @@
   font-weight: 400;
   font-style: normal;
 }
+
+.type-text {
+  font-family: MyFontRegular, serif !important;
+}
+h1, .type-heading, .type-title {
+  font-family: MyFontBook, serif !important;
+}
