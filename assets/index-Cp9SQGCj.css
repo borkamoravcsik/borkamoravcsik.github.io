@@ -5,3 +5,10 @@
     font-family: 'Work Sans';
     font-size: 12px;
 }
+
+@font-face {
+  font-family: "MyFontRegular";
+  src: url("/HALTimezoneUnlicensed-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
